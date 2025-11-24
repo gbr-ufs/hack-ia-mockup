@@ -10,6 +10,16 @@ Aplicação de desktop simples de IA que utiliza do framework Mangaba para inter
 
 # Utilização
 
+1. Adquira a sua [chave de API do Gemini](https://aistudio.google.com/app/api-keys).
+
+2. Coloque-a num arquivo `.env` na raiz deste projeto.
+
+```
+GOOGLE_API_KEY=CHAVE_DA_API
+```
+
+3. Execute o arquivo `main` do projeto.
+
 ```
 uv run src/main.py
 ```
