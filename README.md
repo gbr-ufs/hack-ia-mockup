@@ -24,6 +24,7 @@ Durante a realização deste projeto, demonstramos conhecer:
 4. [Python](https://www.python.org/).
 5. [Mangaba AI](https://mangaba-ai.vercel.app/).
 6. [uv](https://docs.astral.sh/uv/).
+7. [Qt for Python](https://doc.qt.io/qtforpython-6/).
 
 ## Competências Adicionais
 
