@@ -1,0 +1,15 @@
+# Python-generated files.
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Ignore all dotfiles, except those under version control.
+.*
+!.editorconfig
+!.envrc
+!.github/
+!.gitignore
+!.python-version
