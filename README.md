@@ -42,3 +42,4 @@ Durante a realização deste projeto, demonstramos conhecer:
 2. [basedpyright](https://docs.basedpyright.com/latest/).
 3. [Ruff](https://docs.astral.sh/ruff/).
 4. [ty](https://docs.astral.sh/ty/).
+5. [direnv](https://direnv.net/).
